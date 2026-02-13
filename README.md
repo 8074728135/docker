@@ -1,5 +1,7 @@
 
 # react-file-viewer
+This project demonstrates collaborative GitHub workflow using pull requests.
+
 
 Extendable file viewer for web
 
